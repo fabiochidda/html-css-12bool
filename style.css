@@ -23,5 +23,9 @@ section {
     color: white;
     padding: 30px;
     border: 2px solid white;
-    text-align: center;
+}
+
+.no-content [class*="col-offset"] {
+    border: 0;
+    padding: 0;
 }
