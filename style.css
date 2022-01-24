@@ -20,9 +20,14 @@ section {
 
 .no-content [class*="col-"] {
     background-color: #006CFA;
-    color: white;
     padding: 30px;
     border: 2px solid white;
+}
+
+.no-content-alt [class*="col-"] {
+    background-color: #00E165;
+    padding: 30px;
+    border: 2px solid #006CFA;
 }
 
 .no-content [class*="col-offset"] {
