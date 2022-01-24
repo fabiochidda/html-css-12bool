@@ -5,3 +5,11 @@
     border: 2px solid white;
     text-align: center;
 }
+
+.content-alt [class*="col-"] {
+    background-color: #00E165;
+    color: white;
+    padding: 10px;
+    border: 2px solid #006CFA;
+    text-align: center;
+}
