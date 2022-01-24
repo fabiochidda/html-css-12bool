@@ -150,3 +150,11 @@
 .row.align-end {
     align-items: flex-end;
 }
+
+.row.justify-around {
+    justify-content: space-around;
+}
+
+.row.row.justify-between {
+    justify-content: space-between;
+}
