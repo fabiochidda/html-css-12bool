@@ -34,3 +34,7 @@ section {
     border: 0;
     padding: 0;
 }
+
+.content .lg {
+    height: 100px;
+}

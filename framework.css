@@ -124,3 +124,29 @@
 .col-offset-12 {
     margin-left: calc( (100% / 12) * 12 );
 }
+
+/* Flex-Start non necessario */
+
+.row.justify-start {
+    justify-content: flex-start;
+}
+
+.row.justify-center {
+    justify-content: center;
+}
+
+.row.justify-end {
+    justify-content: flex-end;
+}
+
+.row.align-start {
+    align-items: flex-start;
+}
+
+.row.row.align-center {
+    align-items: center;
+}
+
+.row.align-end {
+    align-items: flex-end;
+}
