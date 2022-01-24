@@ -1,7 +1,7 @@
 .content [class*="col-"] {
     background-color: #006CFA;
     color: white;
-    padding: 10px;
+    padding: 20px;
     border: 2px solid white;
     text-align: center;
 }
@@ -11,5 +11,17 @@
     color: white;
     padding: 10px;
     border: 2px solid #006CFA;
+    text-align: center;
+}
+
+section {
+    padding-bottom: 20px;
+}
+
+.no-content [class*="col-"] {
+    background-color: #006CFA;
+    color: white;
+    padding: 30px;
+    border: 2px solid white;
     text-align: center;
 }
